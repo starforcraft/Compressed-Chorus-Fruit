@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "compressedchorusfruit:item/compressed_chorus_fruit"
+  }
+}
